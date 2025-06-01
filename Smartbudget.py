@@ -3,7 +3,7 @@
 """
 SmartBudget - Dashboard Financeiro Inteligente
 Análise avançada de gastos com IA preditiva para extratos do Nubank
-Autor: SmartBudget AI
+Autor: Andre Occenstein
 Versão: 1.0
 """
 
